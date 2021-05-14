@@ -7,5 +7,5 @@ import (
 )
 
 func APIMid() {
-	fmt.Println(low.API1())
+	fmt.Println(low.API1() + "asdf")
 }
